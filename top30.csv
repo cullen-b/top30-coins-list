@@ -1,0 +1,31 @@
+Name,Symbol,Market_cap ($ B),Price,percent_change_30d,On Coinbase:,On Kraken:,On Gemini:
+Bitcoin,BTC,881.78,45016.74,13.77,Yes,Yes,Yes
+Ethereum,ETH,283.96,2362.71,8.94,Yes,Yes,Yes
+Tether USDt,USDT,91.76,1.0,0.01,Yes,Yes,Yes
+BNB,BNB,47.04,310.09,36.41,No,No,No
+Solana,SOL,46.36,107.81,71.73,Yes,Yes,Yes
+XRP,XRP,33.99,0.63,1.22,Yes,Yes,Yes
+USDC,USDC,24.73,1.0,0.02,No,Yes,Yes
+Cardano,ADA,21.72,0.61,57.49,Yes,Yes,No
+Avalanche,AVAX,14.92,40.72,87.33,Yes,Yes,Yes
+Dogecoin,DOGE,13.03,0.09,8.12,Yes,No,Yes
+Polkadot,DOT,11.19,8.43,54.41,Yes,Yes,Yes
+TRON,TRX,9.64,0.11,5.5,No,Yes,No
+Polygon,MATIC,9.33,0.98,21.02,Yes,Yes,Yes
+Chainlink,LINK,8.64,15.21,-4.05,Yes,Yes,Yes
+Toncoin,TON,8.06,2.33,-3.63,No,No,No
+Internet Computer,ICP,6.68,14.7,212.18,Yes,Yes,No
+Shiba Inu,SHIB,6.22,0.0,18.87,Yes,Yes,Yes
+Litecoin,LTC,5.42,73.14,1.97,Yes,Yes,Yes
+Dai,DAI,5.35,1.0,-0.01,Yes,Yes,Yes
+Bitcoin Cash,BCH,5.05,257.43,13.31,Yes,Yes,Yes
+Uniswap,UNI,4.35,7.28,21.15,Yes,Yes,Yes
+Cosmos,ATOM,4.23,11.09,17.51,Yes,Yes,Yes
+NEAR Protocol,NEAR,3.91,3.89,97.58,Yes,Yes,No
+UNUS SED LEO,LEO,3.69,3.97,9.18,No,No,No
+Stellar,XLM,3.67,0.13,6.65,Yes,Yes,No
+Filecoin,FIL,3.56,7.25,61.62,Yes,Yes,Yes
+Optimism,OP,3.36,3.69,115.79,Yes,Yes,No
+OKB,OKB,3.33,55.51,-5.05,No,No,No
+Hedera,HBAR,3.24,0.1,56.15,Yes,No,No
+Ethereum Classic,ETC,3.21,22.16,13.13,Yes,Yes,No
